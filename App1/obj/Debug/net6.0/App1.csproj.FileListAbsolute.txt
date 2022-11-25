@@ -1,0 +1,15 @@
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\bin\Debug\net6.0\App1.exe
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\bin\Debug\net6.0\App1.deps.json
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\bin\Debug\net6.0\App1.runtimeconfig.json
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\bin\Debug\net6.0\App1.dll
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\bin\Debug\net6.0\App1.pdb
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\obj\Debug\net6.0\App1.csproj.AssemblyReference.cache
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\obj\Debug\net6.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\obj\Debug\net6.0\App1.AssemblyInfoInputs.cache
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\obj\Debug\net6.0\App1.AssemblyInfo.cs
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\obj\Debug\net6.0\App1.csproj.CoreCompileInputs.cache
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\obj\Debug\net6.0\App1.dll
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\obj\Debug\net6.0\refint\App1.dll
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\obj\Debug\net6.0\App1.pdb
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\obj\Debug\net6.0\App1.genruntimeconfig.cache
+D:\Code Academy\Fullstack backend\Practica\ManagePromotion\App1\App1\obj\Debug\net6.0\ref\App1.dll
